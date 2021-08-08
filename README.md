@@ -1,3 +1,3 @@
-# Simple web scraper using C
+# Simple web ~~scraper~~ crawler using C
 
-(And some C++ for simple image classification found through crawling!)
+Using Breadth First Search to fetch anchor tags and crawl the web, looking for image tags
